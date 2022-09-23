@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Are you ready to RAAAGE?!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'we are building the next generation of internet culture within web3 by bringing back the most nostalgic era of meme culture, Rage Comics.';
+const welcome_p = 'We are building the next generation of internet culture within web3 by bringing back the most nostalgic era of meme culture, Rage Comics.';
 const h1_presale_coming_soon = "FFFFUUUUU!!";
 const h1_presale_mint = "Pre-RAGING is ON!!";
 const h1_public_mint = "Public RAGE is ON!!";
